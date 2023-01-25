@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		
+	
+		
+		<title>香蕉U的个人博客-bananau.com | 又一个色情站点</title>
+			
+		  <style type="text/css">
+body {
+overflow-x:hidden;
+overflow-y:hidden;
+}
+</style> 
+ 
+<style type="text/css">
+html {
+overflow-x:hidden;
+overflow-y:hidden;
+}
+</style>
+
+		<!-- Preloader CSS -->
+		<script src="js/pace.min.js"></script>
+		
+		<!-- Meta Viewport -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+		
+		<!-- Meta description and keywords -->
+		<meta name="description" content="">
+		<meta name="keywords" content="">
+		
+		<!-- Shortcut icons And Apple touch icon -->
+		<link rel="shortcut icon" href="img/favicon.png" >
+		<link rel="apple-touch-icon" href="img/favicon.png" >
+		
+		<!-- Preloader CSS -->
+		<link rel="stylesheet" href="css/pace.css" >
+		
+		<!-- Bootstrap CSS -->
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+		
+		<!-- Other Supportive CSS -->
+		<link rel="stylesheet" href="css/font-awesome.min.css">
+		<link rel="stylesheet" href="css/animate.min.css">
+		<link rel="stylesheet" href="css/animation-delay.css">
+		<link rel="stylesheet" href="css/owl.carousel.css">
+		<link rel="stylesheet" href="css/owl.theme.css">
+		
+		<!-- Universal stylesheet (Shouldbe used with all pages) -->
+		<link rel="stylesheet" href="css/main.css">
+		
+		<!-- Custom CSS (color theme) < Editable > -->
+		<link rel="stylesheet" href="css/pages/single-portfolio.css">
+		
+		<!-- Custom CSS (color theme) < Editable > -->
+		<link rel="stylesheet" href="css/color-theme/portfolio/blue.css">
+		
+		<!-- CSS Only for demo delete in original vrsion -->
+		<link rel="stylesheet" href="css/demo.css">
+	</head>
+	<body data-spy="scroll" data-target=".navbar">
+	<div class="overlay"></div>
+	<!-- div plays video  -->
+	<div class="bg-wrapper" data-vide-bg="movie/2.mp4" data-vide-options="loop: -1, muted: false, position: 0% 0%"></div>
+	
+	<div class="layout full-width">
+		<section id="demo" class="demo affix hidden-xs sp">
+			<div class="container">
+			
+		</section>
+		<section id="port-showcase" class="port-showcase">
+			<div class="wrapper">
+				<div class="container head">
+				
+					</div>
+				</div>
+				<div class="container about-me">
+					<div class="row">
+						<div class="col-md-6">
+							<img src="img/avatars/avatar.jpg" alt="user" class="img img-responsive img-circle img-profile">
+						</div>
+						<div class="col-md-6">
+							<h3 class="heading txt-md">Hi! I'm <span class="color-inverse txt-border name">Bananau</span></h3>
+						<p><font size="5" face="arial" color="white">欢迎来到香蕉君的首页_(:зゝ∠)_</font></p><a href="链接">
+							<!-- Buttons not visible on mobile device -->
+							<div id="wrap">
+	
+	<link rel="stylesheet" type="text/css" href="css/btn1.css">
+	
+	<div id="wrap">
+		<a href="/" target="_blank" class="btn-slide">
+		  <span class="circle"><i class="fa fa-send "></i></span>
+		  <span class="title">没啥东西</span>
+		  <span class="title-hover">_(:зゝ∠)_</span>
+		</a>
+		<a href="http://wpa.qq.com/msgrd?v=3&amp;uin=949299965&amp;site=qq&amp;menu=yes" target="_blank" class="btn-slide2">
+		  <span class="circle2"><i class="fa fa-qq"></i></span>
+		  <span class="title2">找我也没用</span> 
+		  <span class="title-hover2">喵~ ＞▽＜</span>
+		</a>
+	</div>					
+				<div class="container navigator">
+					
+				</div>
+			</div>
+		</section>
+		<section id="port-skills" class="port-skills">
+			<div class="container">
+				
+		</section>
+		<section id="port-counter" class="port-counter">
+			<div class="wrapper">
+				<div class="container">
+					
+		<section id="port-monials" class="port-monials">
+			<div class="container">
+				
+		</section>
+		<section id="port-contact" class="port-contact">
+			<div class="wrapper">
+				<div class="container">
+					
+		</section>
+		<section id="port-foot" class="port-foot">
+			<div class="container">
+				
+		</section>
+		
+		    <!-- Brand and toggle get grouped for better mobile display -->
+
+		  </div><!-- /.container-fluid -->
+		</nav>
+	</div>
+	<!-- jQuery -->
+		<script src="js/jquery-2.1.1.min.js"></script>
+		
+		<!-- Bootstrap -->
+		<script src="js/bootstrap.min.js"></script>
+		
+		<!-- Other supportive js -->
+		<script src="js/circles.min.js"></script>
+		<script src="js/waypoints.min.js"></script>
+		<script src="js/jquery.mixitup.min.js"></script>
+		<script src="js/jquery.countTo.js"></script>
+		<script src="js/owl.carousel.min.js"></script>
+		<script src="js/jquery.vide.min.js"></script>
+		
+		<!-- Universal js < Editable > -->
+		<script src="js/main.js"></script>
+		
+		<!-- Custom Page Specific js < Editable > -->
+		<script src="js/pages/single-portfolio.js"></script>
+		
+		<!-- Style switcher for demo page only -->
+		<script src="js/style-switcher.js"></script>
+		<!--Pci.moe授权使用≧◠◡◠≦✌未经允许谢绝转载扒皮，尊重劳动成果。-->
+	</body>
+</html>
